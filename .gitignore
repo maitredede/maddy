@@ -47,3 +47,8 @@ tests/maddy.cover
 tests/maddy
 
 .idea/
+
+dkim/
+Dockerfile
+docker-bake.hcl
+docker-compose.yaml
